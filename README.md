@@ -1,4 +1,4 @@
-# MyApp
+# test_baltic
 
 A Go-based application for handling user transactions and managing balances.
 
